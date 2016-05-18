@@ -1,28 +1,42 @@
-# electron-quick-start
+# LoL ItemSet Creator
 
-**Clone and run for a quick way to see an Electron in action.**
+**Powered by the Champion.gg API and Electron**
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
+## What is this for:
 
-**Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
+- the app accesses the Champion.gg API and creates ItemSets as .json files, usable in `League of Legends`
+- it creates an ItemSet for each role suggested/available in the Champion.gg API
+- There are always the following "rows" in each Set
+    - StartItems
+        - Highest Winrate
+        - Most Picked
+    - Build
+        - Highest Winrate
+        - Most Picked
+    - Consumables
+    - Wards & Trinkets
 
-A basic Electron application needs just these files:
+(The last two will have the skill maxing order for highest winrate and most picked as their "names")
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
+**Note: You will still get flamed for feeding but now you show them your dominance by having the right items**
 
-You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
+## But Why?
 
-## To Use
+**mostly for fun, but apart from that**
+- learn Node.js & npm
+- learn Electron and cross platform developing
+- learn git/github
+- climb from Bronze V (Silver V now, wohoo)
+
+## How?
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/primus852/c-gg
 # Go into the repository
-cd electron-quick-start
+cd c-gg
 # Install dependencies and run the app
 npm install && npm start
 ```
