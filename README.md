@@ -41,7 +41,7 @@ cd c-gg
 npm install && npm start
 ```
 
-To create an executable please refer to[Electron-Packager](https://github.com/electron-userland/electron-packager)
+To create an executable please refer to [Electron-Packager](https://github.com/electron-userland/electron-packager)
  
 ## What's next
 A lot actually, some major stuff first
