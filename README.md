@@ -41,7 +41,15 @@ cd c-gg
 npm install && npm start
 ```
 
-To create an executable please refer to[Electron-Packager](https://github.com/electron-userland/electron-packager) 
+To create an executable please refer to[Electron-Packager](https://github.com/electron-userland/electron-packager)
+ 
+## What's next
+A lot actually, some major stuff first
+- Make really "cross platform" (I need the Executable "Names" for Mac though)
+- Beautify UI
+- Give more feedback of what is going on currently in the App
+- Error handling
+
 
 ## I only want the compiled stuff
 Soon
