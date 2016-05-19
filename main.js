@@ -4,6 +4,28 @@ const app = electron.app;
 // Module to create native browser window.
 const BrowserWindow = electron.BrowserWindow
 
+const sudo = require('electron-sudo');
+
+var options = {
+  name: 'LoL ItemSet Creator',
+  //icns: '/path/to/icns/file', // (optional, only for MacOS),
+  process: {
+    options: {
+      // Can use custom environment variables for your privileged subprocess
+      //env: {'VAR': 'VALUE'}
+      // ... and all other subprocess options described here
+      // https://nodejs.org/api/child_process.html#child_process_child_process_exec_command_options_callback
+    },
+    on: function(ps) {
+      ps.stdout.on('data', function(data) {});
+      setTimeout(function() {
+        ps.kill()
+      }.bind(ps), 50000);
+    }
+  }
+};
+sudo.exec('echo hello', options, function(error) {});
+
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
