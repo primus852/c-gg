@@ -127,6 +127,7 @@ $(document).ready(function () {
         var currentCount = 1;
         var $myQueue = $("<div />");
         var btn = $(this);
+        var cError = 0;
         btn.attr('disabled', 'disabled');
         $('.progress').show();
         $('.progressResult').hide();
@@ -135,6 +136,9 @@ $(document).ready(function () {
                 $.getJSON(CHAMPION_GG_ENDPOINT_CHAMPION + champion.key, {
                     api_key: $('#apiGGKey').val()
                 })
+                    .error(function() {
+                       cError++; 
+                    })
                     .done(function (data) {
                         console.log('Stats for %c' + champion.key + ' %cloaded', 'color:blue;', 'color:black;');
                         $('.image-circle').attr('src','./assets/vendor/c-gg/images/champions/'+champion.key+'.png');
@@ -149,10 +153,14 @@ $(document).ready(function () {
                         });
                         var currentProgress = 100 * currentCount / championTotal;
                         $('.progress-bar').css('width', currentProgress + '%');
+                        $('#currentChampion').html(champion.name);
                         if(currentProgress == 100){
                             $('.progress').hide();
                             $('.progressResult').html('<i class="fa fa-check"></i> All ItemSets downloaded.').show();
                             $('.image-circle').attr('src','./assets/vendor/c-gg/images/logo.png');
+                            if(cError > 0){
+                                $('#currentChampion').html('<span class="label label-danger">Some Champions are missing, please run again</span>');
+                            }
                         }
                         currentCount++;
                         prio = 1;
