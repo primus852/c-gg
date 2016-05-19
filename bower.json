@@ -1,0 +1,29 @@
+{
+  "name": "c-gg",
+  "description": "Creates LoL ItemSets from Champion.GG API",
+  "main": "main.js",
+  "authors": [
+    "PrimuS"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "LoL",
+    "API",
+    "ItemSets",
+    "Champion.GG"
+  ],
+  "homepage": "https://github.com/primus852/c-gg",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
