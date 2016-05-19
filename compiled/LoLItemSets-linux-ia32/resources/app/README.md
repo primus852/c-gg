@@ -50,8 +50,10 @@ A lot actually, some major stuff first
 - Give more feedback of what is going on currently in the App
 - Error handling
 
+## But I want the complied stuff
+Please see the "compiled" folder
 
-## I only want the compiled stuff
+## Meh, can't I have just one Executable?
 Soon
 
 ## But me no speak Englando

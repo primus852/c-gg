@@ -137,11 +137,22 @@ $(document).ready(function () {
                 })
                     .done(function (data) {
                         console.log('Stats for %c' + champion.key + ' %cloaded', 'color:blue;', 'color:black;');
+                        $('.image-circle').attr('src','./assets/vendor/c-gg/images/champions/'+champion.key+'.png');
+                        fs.stat('./assets/vendor/c-gg/images/champions/'+champion.key+'.png', function(err, stat) {
+                            if(err == null) {
+                                console.log('Image %c' + champion.key + '.png found', 'color:green;');
+                            } else if(err.code == 'ENOENT') {
+                                $('.image-circle').attr('src','./assets/vendor/c-gg/images/champions/Unknown.png');
+                            } else {
+                                console.log('Some other error: ', err.code);
+                            }
+                        });
                         var currentProgress = 100 * currentCount / championTotal;
                         $('.progress-bar').css('width', currentProgress + '%');
                         if(currentProgress == 100){
                             $('.progress').hide();
                             $('.progressResult').html('<i class="fa fa-check"></i> All ItemSets downloaded.').show();
+                            $('.image-circle').attr('src','./assets/vendor/c-gg/images/logo.png');
                         }
                         currentCount++;
                         prio = 1;

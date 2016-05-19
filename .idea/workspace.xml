@@ -27,7 +27,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -37,17 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -282,12 +272,12 @@
       <workItem from="1463608331148" duration="2643000" />
       <workItem from="1463610983586" duration="11000" />
       <workItem from="1463611002966" duration="599000" />
-      <workItem from="1463689689010" duration="4665000" />
+      <workItem from="1463689689010" duration="4746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7918000" />
+    <option name="totallyTimeSpent" value="7999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1680" height="963" extended-state="6" />
@@ -489,6 +479,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="154" column="98" selection-start-line="154" selection-start-column="98" selection-end-line="154" selection-end-column="98" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1463695797959" expanded="true" signature="2028:2040" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -502,17 +503,6 @@
         <state relative-caret-position="342">
           <caret line="19" column="82" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="82" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="154" column="98" selection-start-line="154" selection-start-column="98" selection-end-line="154" selection-end-column="98" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1463695797959" expanded="true" signature="2028:2040" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
