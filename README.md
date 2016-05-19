@@ -30,7 +30,7 @@
 
 ## How?
 
-To clone and run this repository you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [Electron](http://electron.atom.io/docs/latest) installed on your computer. From your command line:
+To clone and run this repository you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)), [Bower](http://bower.io/) and [Electron](http://electron.atom.io/docs/latest) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -38,7 +38,7 @@ git clone https://github.com/primus852/c-gg
 # Go into the repository
 cd c-gg
 # Install dependencies and run the app
-npm install && npm start
+bower update && npm install && npm start
 ```
 
 To create an executable please refer to [Electron-Packager](https://github.com/electron-userland/electron-packager)
