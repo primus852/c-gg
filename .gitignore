@@ -6,4 +6,8 @@ config
 /assets/vendor/bootstrap
 /assets/vendor/jquery
 /build.txt
+/compiled/LoLItemSets-win32-x64
+/compiled/LoLItemSets-darwin-x64
+/compiled/LoLItemSets-win32-ia32
+/compiled/LoLItemSets-mas-x64
 .idea
