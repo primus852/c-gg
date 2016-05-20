@@ -26,20 +26,27 @@
     <span>Patch:</span><br /><span id="currentPatch"><i class="fa fa-spin fa-spinner"></i> </span>
   </div>
   <div class="col-md-6 col-xs-6 follow line text-center">
-    <span>Games analyzed:</span><br /><span id="currentAnalyse"><i class="fa fa-spin fa-spinner"></i> </span>
+    <span>Games analyzed:</span><br /><span id="currentAnalyze"><i class="fa fa-spin fa-spinner"></i> </span>
   </div>
-  <div class="col-xs-6 text-center">
-            <span class="btn btn-success btn-sm btn-file">
+  <div class="col-xs-4 text-center">
+            <span class="btn btn-success btn-sm c-gg-btn btn-file">
                 Select lol.launcher.exe <input type="file" id="selectLoL">
             </span>
   </div>
-  <div class="col-xs-6 text-center">
-    <a class="btn btn-success btn-sm c-gg-btn" id="saveItems">Get ItemSets</a>
+  <div class="col-xs-4 text-center">
+    <a class="btn btn-success btn-sm c-gg-btn startCrawl" id="saveItems">Download &amp; Copy</a>
+  </div>
+  <div class="col-xs-4 text-center">
+    <a class="btn btn-warning btn-sm c-gg-btn startCrawl" id="downloadItems">Download Only</a>
   </div>
   <div class="col-md-12 col-xs-12 login_control">
-    <div class="label">Champion.gg API Key <a class="btn btn-orange-small btn-sm" id="saveGG">Save</a></div>
+    <div class="label">
+      Champion.gg API Key
+      <a class="btn btn-orange-small btn-sm" id="saveGG">Save</a>
+      <a class="btn btn-orange-small btn-cc-med btn-sm" id="getGG">Get Key</a>
+    </div>
     <input type="text" class="form-control" id="apiGGKey"/>
-    <div class="col-md-12 col-xs-12">
+    <div class="col-md-12 col-xs-12 text-center">
       <div class="progress">
         <div class="progress-bar" role="progressbar" style="width:70%">
         </div>

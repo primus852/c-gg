@@ -8,11 +8,11 @@
 - it creates an ItemSet for each role suggested/available in the Champion.gg API
 - There are always the following "rows" in each Set
     - StartItems
-        - Highest Winrate
         - Most Picked
+        - Highest Winrate
     - Build
-        - Highest Winrate
         - Most Picked
+        - Highest Winrate
     - Consumables
     - Wards & Trinkets
 
@@ -50,7 +50,7 @@ A lot actually, some major stuff first
 - Give more feedback of what is going on currently in the App
 - Error handling
 
-## But I want the complied stuff
+## But I want the compiled stuff
 Please see the "compiled" folder
 
 ## Meh, can't I have just one Executable?

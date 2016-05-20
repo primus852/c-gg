@@ -8,7 +8,7 @@ const sudo = require('electron-sudo');
 
 var options = {
   name: 'LoL ItemSet Creator',
-  //icns: '/path/to/icns/file', // (optional, only for MacOS),
+  icns: './assets/vendor/c-gg/images/logo.png', // (optional, only for MacOS),
   process: {
     options: {
       // Can use custom environment variables for your privileged subprocess

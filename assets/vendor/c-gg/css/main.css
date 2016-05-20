@@ -125,6 +125,10 @@ h1{
     color: #fff;
     font-weight: inherit;
 }
+
+.btn-cc-med{
+    width: 75px !important;
+}
 .btn-orange{
     background-color: #FC563B;
     border-radius: 0px;

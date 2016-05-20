@@ -1,28 +1,29 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "LoLItemSetCreator",
+  "version": "0.1.0",
+  "description": "Create LoL ItemSet with the Champion.GG API",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/primus852/c-gg.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "LoL",
+    "Champion.GG",
+    "League",
+    "Legends"
   ],
-  "author": "GitHub",
+  "author": "PrimuS",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/primus852/c-gg/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/primus852/c-gg/blob/master/README.md",
   "devDependencies": {
-    "electron-prebuilt": "^1.0.1"
+    "electron-prebuilt": "^1.0.1",
+    "grunt-electron-installer": "^2.1.0"
   }
 }

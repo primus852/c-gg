@@ -1,4 +1,9 @@
 node_modules
 ItemSets
 config
+/assets/vendor/animate.css
+/assets/vendor/font-awesome
+/assets/vendor/bootstrap
+/assets/vendor/jquery
+/build.txt
 .idea
