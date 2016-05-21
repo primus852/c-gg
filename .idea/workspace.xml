@@ -2,8 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a05495-2195-4b80-b6e7-bd537f14a027" name="Default" comment="Error handling v1">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compiled/darwin_x64.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compiled/mas_x64.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compiled/win_x64.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compiled/win_x86.7z" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Aatrox.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Aatrox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ahri.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ahri.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Akali.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Akali.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Alistar.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Alistar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Amumu.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Amumu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Anivia.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Anivia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Annie.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Annie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ashe.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ashe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/AurelionSol.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/AurelionSol.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Azir.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Azir.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Bard.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Bard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Blitzcrank.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Blitzcrank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Brand.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Brand.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Braum.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Braum.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Caitlyn.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Caitlyn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Cassiopeia.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Cassiopeia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Chogath.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Chogath.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Corki.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Corki.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Darius.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Darius.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Diana.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Diana.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/DrMundo.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/DrMundo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Draven.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Draven.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ekko.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ekko.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Elise.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Elise.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Evelynn.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Evelynn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ezreal.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ezreal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/FiddleSticks.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/FiddleSticks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Fiora.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Fiora.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Fizz.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Fizz.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Galio.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Galio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Gangplank.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Gangplank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Garen.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Garen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Gnar.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Gnar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Gragas.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Gragas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Graves.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Graves.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Hecarim.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Hecarim.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Heimerdinger.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Heimerdinger.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Illaoi.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Illaoi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Irelia.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Irelia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Janna.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Janna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/JarvanIV.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/JarvanIV.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jax.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jax.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jayce.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jayce.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jhin.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jhin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jinx.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Jinx.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kalista.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kalista.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Karma.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Karma.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Karthus.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Karthus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kassadin.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kassadin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Katarina.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Katarina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kayle.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kayle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kennen.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kennen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Khazix.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Khazix.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kindred.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Kindred.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/KogMaw.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/KogMaw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Leblanc.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Leblanc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/LeeSin.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/LeeSin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Leona.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Leona.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lissandra.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lissandra.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lucian.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lucian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lulu.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lulu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lux.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Lux.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Malphite.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Malphite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Malzahar.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Malzahar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Maokai.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Maokai.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/MasterYi.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/MasterYi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/MissFortune.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/MissFortune.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/MonkeyKing.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/MonkeyKing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Mordekaiser.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Mordekaiser.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Morgana.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Morgana.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nami.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nami.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nasus.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nasus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nautilus.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nautilus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nidalee.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nidalee.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nocturne.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nocturne.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nunu.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Nunu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Olaf.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Olaf.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Orianna.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Orianna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Pantheon.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Pantheon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Poppy.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Poppy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Quinn.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Quinn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Rammus.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Rammus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/RekSai.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/RekSai.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Renekton.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Renekton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Rengar.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Rengar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Riven.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Riven.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Rumble.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Rumble.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ryze.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ryze.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sejuani.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sejuani.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Shaco.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Shaco.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Shen.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Shen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Shyvana.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Shyvana.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Singed.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Singed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sion.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sivir.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sivir.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Skarner.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Skarner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sona.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Sona.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Soraka.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Soraka.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Swain.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Swain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Syndra.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Syndra.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/TahmKench.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/TahmKench.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Talon.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Talon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Taric.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Taric.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Teemo.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Teemo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Thresh.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Thresh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Tristana.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Tristana.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Trundle.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Trundle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Tryndamere.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Tryndamere.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/TwistedFate.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/TwistedFate.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Twitch.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Twitch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Udyr.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Udyr.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Unknown.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Unknown.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Urgot.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Urgot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Varus.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Varus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Vayne.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Vayne.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Veigar.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Veigar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Velkoz.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Velkoz.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Vi.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Vi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Viktor.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Viktor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Vladimir.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Vladimir.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Volibear.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Volibear.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Warwick.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Warwick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Xerath.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Xerath.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/XinZhao.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/XinZhao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Yasuo.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Yasuo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Yorick.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Yorick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zac.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zac.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zed.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ziggs.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Ziggs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zilean.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zilean.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zyra.png" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/champions/Zyra.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/vendor/c-gg/images/logo.icns" afterPath="$PROJECT_DIR$/assets/vendor/c-gg/images/logo.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="$PROJECT_DIR$/.bowerrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/c-gg.iml" afterPath="$PROJECT_DIR$/.idea/c-gg.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/renderer.js" afterPath="$PROJECT_DIR$/renderer.js" />
     </list>
     <ignored path="c-gg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +177,7 @@
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,11 +195,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -64,7 +212,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="936">
+              <first_editor relative-caret-position="565">
                 <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
                 <folding />
               </first_editor>
@@ -73,25 +221,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/js/main.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5220">
-              <caret line="290" column="69" selection-start-line="290" selection-start-column="69" selection-end-line="290" selection-end-column="69" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,20 +250,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/vendor/c-gg/css/main.css" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/vendor/c-gg/js/main.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/p.json" />
+        <option value="$PROJECT_DIR$/build.txt" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/build.txt" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -191,7 +335,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="compiled" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,7 +423,8 @@
       <workItem from="1463698865699" duration="822000" />
       <workItem from="1463699696564" duration="1528000" />
       <workItem from="1463772663945" duration="10135000" />
-      <workItem from="1463784237579" duration="2026000" />
+      <workItem from="1463784237579" duration="5973000" />
+      <workItem from="1463790332324" duration="3025000" />
     </task>
     <task id="LOCAL-00001" summary="Error handling v1">
       <created>1463699969071</created>
@@ -313,20 +458,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23510000" />
+    <option name="totallyTimeSpent" value="30482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1680" height="963" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1499388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15177478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18915802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20645906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -362,6 +507,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="936">
+            <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -415,7 +616,7 @@
         <state relative-caret-position="5220">
           <caret line="290" column="69" selection-start-line="290" selection-start-column="69" selection-end-line="290" selection-end-column="69" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
           </folding>
         </state>
@@ -466,7 +667,7 @@
         <state relative-caret-position="270">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
           </folding>
         </state>
@@ -495,7 +696,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
           </folding>
         </state>
@@ -524,7 +725,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
           </folding>
         </state>
@@ -553,7 +754,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
           </folding>
         </state>
@@ -697,10 +898,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="290" column="69" selection-start-line="290" selection-start-column="69" selection-end-line="290" selection-end-column="69" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -715,55 +935,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/c-gg/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5220">
-          <caret line="290" column="69" selection-start-line="290" selection-start-column="69" selection-end-line="290" selection-end-column="69" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1463782171428" expanded="true" signature="3842:3854" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="936">
-            <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="565">
+            <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding />
         </state>
       </provider>

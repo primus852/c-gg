@@ -4,6 +4,9 @@
   "description": "Create LoL ItemSet with the Champion.GG API",
   "main": "main.js",
   "scripts": {
+    "build": "rm -rf dist/ | electron-packager . LoLItemSetCreator --platform win32,mas,darwin --arch x64,ia32 --out dist/ --overwrite",
+    "setup": "electron-installer-windows --src dist/LoLItemSetCreator-win32-ia32/ --dest dist/installers/win/32bit | electron-installer-windows --src dist/LoLItemSetCreator-win32-x64/ --dest dist/installers/win/64bit",
+    "zip": "7z a -t7z dist/packages/darwin_x64.7z dist/LoLItemSetCreator-darwin-x64/ | 7z a -t7z dist/packages/mas_x64.7z dist/LoLItemSetCreator-mas-x64/",
     "start": "electron main.js"
   },
   "repository": {
@@ -21,8 +24,16 @@
   "bugs": {
     "url": "https://github.com/primus852/c-gg/issues"
   },
+  "build": {
+    "app-bundle-id": "c.gg",
+    "app-category-type": "lol.apps",
+    "win": {
+      "iconUrl": "https://raw.githubusercontent.com/primus852/c-gg/master/assets/vendor/c-gg/images/logo.png"
+    }
+  },
   "homepage": "https://github.com/primus852/c-gg/blob/master/README.md",
   "devDependencies": {
+    "electron-installer-windows": "^0.2.0",
     "electron-prebuilt": "^1.0.1",
     "grunt-electron-installer": "^2.1.0"
   }
