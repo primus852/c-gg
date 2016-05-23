@@ -51,7 +51,7 @@ A lot actually, some major stuff first
 - Error handling
 
 ## But I want the compiled stuff
-Please see the "compiled" folder 
+Please see the "dist" folder 
 
 ## Meh, can't I have just one Executable?
 Windows Installer up: [Download](
