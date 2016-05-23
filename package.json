@@ -1,6 +1,6 @@
 {
   "name": "LoLItemSetCreator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create LoL ItemSet with the Champion.GG API",
   "main": "main.js",
   "scripts": {
@@ -35,6 +35,13 @@
   "devDependencies": {
     "electron-installer-windows": "^0.2.0",
     "electron-prebuilt": "^1.0.1",
-    "grunt-electron-installer": "^2.1.0"
+    "electron-packager": "^7.0.2"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0",
+    "request": "^2.72.1",
+    "open": "^0.0.5"
   }
 }
