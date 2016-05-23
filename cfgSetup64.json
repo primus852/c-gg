@@ -1,0 +1,10 @@
+{
+  "dest": "dist/installers/win/64bit/",
+  "src": "dist/LoLItemSetCreator-win32-x64/",
+  "icon": "assets/vendor/c-gg/images/logo.ico",
+  "name": "LoLItemSetCreator",
+  "productName": "LoLItemSetCreator",
+  "description": "An Electron App to create ItemSets for League of Legends",
+  "productDescription": "An Electron App to create ItemSets for League of Legends",
+  "version": "0.1.1"
+}
