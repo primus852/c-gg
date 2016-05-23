@@ -52,8 +52,8 @@ A lot actually, some major stuff first
 
 ## But I want the compiled stuff
 Please see the "dist" folder
-- [Windows - 32Bit](https://github.com/primus852/c-gg/blob/master/dist/packages/windows_ia32.7z) !!recommended!!
-- [Windows - 64Bit](https://github.com/primus852/c-gg/blob/master/dist/packages/windows_x64.7z) !!recommended!!
+- [Windows - 32Bit](https://github.com/primus852/c-gg/blob/master/dist/packages/windows_ia32.7z) **recommended**
+- [Windows - 64Bit](https://github.com/primus852/c-gg/blob/master/dist/packages/windows_x64.7z) **recommended**
 - [Mac OS X - Darwin 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/darwin_x64.7z)
 - [Mac AppStore App (unsigned) 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/mas_x64.7z)
 
