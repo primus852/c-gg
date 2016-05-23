@@ -7,7 +7,7 @@
     "build": "rm -rf dist/ | electron-packager . LoLItemSetCreator --platform win32,mas,darwin --arch all --out dist/ --overwrite --asar",
     "setupWin32": "electron-installer-windows --config cfgSetup32.json",
     "setupWin64": "electron-installer-windows --config cfgSetup64.json",
-    "zip": "7z a -t7z dist/packages/darwin_x64.7z dist/LoLItemSetCreator-darwin-x64/ | 7z a -t7z dist/packages/mas_x64.7z dist/LoLItemSetCreator-mas-x64/",
+    "zip": "7z a -t7z dist/packages/darwin_x64.7z dist/LoLItemSetCreator-darwin-x64/ | 7z a -t7z dist/packages/mas_x64.7z dist/LoLItemSetCreator-mas-x64/ | 7z a -t7z dist/packages/windows_x64.7z dist/LoLItemSetCreator-win32-x64/ | 7z a -t7z dist/packages/windows_ia32.7z dist/LoLItemSetCreator-win32-ia32/",
     "start": "electron main.js"
 
   },

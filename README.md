@@ -52,13 +52,26 @@ A lot actually, some major stuff first
 
 ## But I want the compiled stuff
 Please see the "dist" folder
-- [Mac OS X - Darwin 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/darwin_x64.7z) | [Mac AppStore App (unsigned) 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/mas_x64.7z)
+- [Windows - 32Bit](https://github.com/primus852/c-gg/blob/master/dist/packages/windows_ia32.7z) !!recommended!!
+- [Windows - 64Bit](https://github.com/primus852/c-gg/blob/master/dist/packages/windows_x64.7z) !!recommended!!
+- [Mac OS X - Darwin 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/darwin_x64.7z)
+- [Mac AppStore App (unsigned) 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/mas_x64.7z)
 
 ## Meh, can't I have just one Executable?
-Windows Installer up: [Download 32Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/32bit/LoLItemSetCreator-Setup.exe) | [Download 64Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/64bit/LoLItemSetCreator-Setup.exe) 
+Windows Installer up:
+- [Download 32Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/32bit/LoLItemSetCreator-0.1.1-setup.exe)
+- [Download 64Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/64bit/LoLItemSetCreator-0.1.1-setup.exe) 
 - What is stopping me?
     - ~~On Windows, path too long [issue#1](https://github.com/primus852/c-gg/issues/1)~~ Fixed
     - On Linux, error with windows installer, see [issue#2](https://github.com/primus852/c-gg/issues/2)
+
+## Few words about the Windows Setup Files
+- The `LoLItemSetCreator-x.x.x-setup.exe` are the ones created by the `electron-installer-windows`. Running them creates a folder in `C:\Users\<USERNAME>\AppData\Local\LoLItemSetCreator\app-x.x.x\LoLItemSetCreator.exe`. I am not yet sure how to change that.
+- The `LolItemSetCreator-Setup.exe` are supposed to be a signed .exe, but apparently that did not work. My Avast AntiVir even blocks that thing, possibly because of the numerous outside calls and file creations.
+- I highly recommend running/compiling from source or take the Zip Files instead. Inside the Zips of Windows, just click `LoLItemSetCreator.exe`
+
+## Few words about the Mac Files
+- Untested, currently "Download Only" only works (can't detect LoL Path yet, happy for PRs)
 
 ## But me no speak Englando
 Ich spreche auch deutsch und arbeite an einer "Übersetzung.".
