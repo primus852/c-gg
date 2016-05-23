@@ -34,14 +34,15 @@
   "homepage": "https://github.com/primus852/c-gg/blob/master/README.md",
   "devDependencies": {
     "electron-installer-windows": "^0.2.0",
-    "electron-prebuilt": "^1.0.1",
-    "electron-packager": "^7.0.2"
+    "electron-packager": "^7.0.2",
+    "electron-prebuilt": "^1.1.1"
   },
   "dependencies": {
     "cheerio": "^0.20.0",
+    "electron": "^0.4.1",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
-    "request": "^2.72.1",
-    "open": "^0.0.5"
+    "open": "^0.0.5",
+    "request": "*"
   }
 }
