@@ -58,6 +58,7 @@ Soon
 - What is stopping me?
     - On Windows, path too long [issue#1](https://github.com/primus852/c-gg/issues/1)
     - On Linux, error with windows installer, see [issue#2](https://github.com/primus852/c-gg/issues/2)
+    - ...
 
 ## But me no speak Englando
 Ich spreche auch deutsch und arbeite an einer "Übersetzung.". For more languages I will accept PRs (as soon as I have mastered github)
