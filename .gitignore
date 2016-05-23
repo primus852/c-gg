@@ -13,6 +13,7 @@ config
 /build.txt
 /dist/LoLItemSetCreator-win32-x64
 /npm-debug.log
+/reddit.txt
 .idea
 /dist/LoLItemSetCreator-darwin-x64
 /dist/LoLItemSetCreator-win32-ia32
