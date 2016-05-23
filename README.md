@@ -51,7 +51,8 @@ A lot actually, some major stuff first
 - Error handling
 
 ## But I want the compiled stuff
-Please see the "dist" folder 
+Please see the "dist" folder
+- [Mac OS X - Darwin 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/darwin_x64.7z) | [Mac AppStore App (unsigned) 64Bit Zip](https://github.com/primus852/c-gg/blob/master/dist/packages/mas_x64.7z)
 
 ## Meh, can't I have just one Executable?
 Windows Installer up: [Download 32Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/32bit/LoLItemSetCreator-0.1.1-setup.exe) | [Download 64Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/64bit/LoLItemSetCreator-0.1.1-setup.exe) 
