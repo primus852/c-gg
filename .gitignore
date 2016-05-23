@@ -1,8 +1,10 @@
 /cert
 /dist/installers/win/64bit/LoLItemSetCreator-0.1.1-full.nupkg
 /dist/installers/win/64bit/LoLItemSetCreator-0.1.1-setup.msi
+/dist/installers/win/64bit/LoLItemSetCreator-0.1.1-setup.exe
 /dist/installers/win/32bit/LoLItemSetCreator-0.1.1-setup.msi
 /dist/installers/win/32bit/LoLItemSetCreator-0.1.1-full.nupkg
+/dist/installers/win/32bit/LoLItemSetCreator-0.1.1-setup.exe
 node_modules
 ItemSets
 config
