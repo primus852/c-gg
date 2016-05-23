@@ -71,7 +71,7 @@ Windows Installer up:
 - I highly recommend running/compiling from source or take the Zip Files instead. Inside the Zips of Windows, just click `LoLItemSetCreator.exe`
 
 ## Few words about the Mac Files
-- Untested, currently "Download Only" only works (can't detect LoL Path yet, happy for PRs)
+- Untested, currently "Download Only" only works (can't detect LoL Path yet, happy for PRs) 
 
 ## But me no speak Englando
 Ich spreche auch deutsch und arbeite an einer "Übersetzung.".
