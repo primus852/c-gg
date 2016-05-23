@@ -19,6 +19,7 @@ $(document).ready(function () {
     /* Cache jQuery Slectors. Thanks PhpStorm... */
     /* IDs */
     var $saveItems = $('#saveItems');
+    var $downloadItems = $('#downloadItems');
     var $apiGGKey = $('#apiGGKey');
     var $saveGG = $('#saveGG');
     var $currentPatch = $('#currentPatch');
@@ -79,6 +80,9 @@ $(document).ready(function () {
 
                 /* Display in Input */
                 $apiGGKey.val(cfg.championGG);
+
+                /* Enable Download Only Button if API Key is present */
+                $downloadItems.removeClass('disabled');
 
                 /* Get total amount of champions from Champion.GG API */
                 $.ajax({
@@ -171,13 +175,16 @@ $(document).ready(function () {
                     alert(err);
                 }
 
+                /* Show Spinner for "Champions in Database" */
+                $championCount.html('<i class="fa fa-spin fa-spinner"></i>');
+
                 /* Make simple Ajax Call (to remove the loading spinners) */
                 /* TODO: Move this to it's own function for using here and on load */
                 $.ajax({
                     url: CHAMPION_GG_ENDPOINT_CHAMPIONS + 'champion',
                     dataType: 'json',
                     data: {
-                        api_key: cfg.championGG
+                        api_key: cfgObject.championGG
                     },
                     success: function (data) {
                         /* Important Array to loop through and get Items later */
@@ -194,6 +201,9 @@ $(document).ready(function () {
 
                         /* Enable Launcher Select Button */
                         $selectLoL.removeAttr('disabled');
+
+                        /* Enable Download Only Button if API Key is present */
+                        $downloadItems.removeClass('disabled');
                     },
                     error: function (data) {
                         /* Check for Errors */
