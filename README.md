@@ -54,13 +54,14 @@ A lot actually, some major stuff first
 Please see the "dist" folder 
 
 ## Meh, can't I have just one Executable?
-Windows Installer up: [Download](
+Windows Installer up: [Download 32Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/32bit/LoLItemSetCreator-0.1.1-setup.exe) | [Download 64Bit](https://github.com/primus852/c-gg/raw/master/dist/installers/win/64bit/LoLItemSetCreator-0.1.1-setup.exe) 
 - What is stopping me?
     - ~~On Windows, path too long [issue#1](https://github.com/primus852/c-gg/issues/1)~~ Fixed
     - On Linux, error with windows installer, see [issue#2](https://github.com/primus852/c-gg/issues/2)
 
 ## But me no speak Englando
-Ich spreche auch deutsch und arbeite an einer "Übersetzung.". For more languages I will accept PRs (as soon as I have mastered github)
+Ich spreche auch deutsch und arbeite an einer "Übersetzung.".
+- For languages other than German, I will accept PRs (as soon as I have mastered github)
 
 Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
 
