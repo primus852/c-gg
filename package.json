@@ -4,7 +4,7 @@
   "description": "Create LoL ItemSet with the Champion.GG API",
   "main": "main.js",
   "scripts": {
-    "build": "rm -rf dist/ | electron-packager . LoLItemSetCreator --platform win32,mas,darwin --arch x64,ia32 --out dist/ --overwrite",
+    "build": "rm -rf dist/ | electron-packager . LoLItemSetCreator --platform win32,mas,darwin --arch all --out dist/ --overwrite --asar",
     "setup": "electron-installer-windows --src dist/LoLItemSetCreator-win32-ia32/ --dest dist/installers/win/32bit | electron-installer-windows --src dist/LoLItemSetCreator-win32-x64/ --dest dist/installers/win/64bit",
     "zip": "7z a -t7z dist/packages/darwin_x64.7z dist/LoLItemSetCreator-darwin-x64/ | 7z a -t7z dist/packages/mas_x64.7z dist/LoLItemSetCreator-mas-x64/",
     "start": "electron main.js"
@@ -38,8 +38,8 @@
     "electron-prebuilt": "^1.1.1"
   },
   "dependencies": {
+    "app": "^0.1.0",
     "cheerio": "^0.20.0",
-    "electron": "^0.4.1",
     "electron-sudo": "^3.0.5",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
